@@ -1,5 +1,5 @@
 body {
-  background:rgb(255, 199, 248);
+  background:rgb(227, 250, 250);
 }
 h1 {
 color:navy;}
@@ -7,4 +7,7 @@ color:navy;}
 p {font-size:20px;}
 
 a {text-decoration:none;
-color:white;}
+color:rgb(251, 130, 233);}
+
+img {width: 50%; 
+height: 25%;}

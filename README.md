@@ -18,14 +18,18 @@ Here are some ideas to get you started:
 # morgs
 > "Changes happen as time passes by. Soon enough, you'll be grown." -kermit the frog 
 
-
-
 ## Major
 Eastern Washington University VCD Major 
 
 ## Skills 
+* 
 
 
+
+## find me here! 
+* [GitHub](https://github.com/mwhapeles) 
+*  <a href="https://codepen.io/mwhapeles">CodePen 
+* [LinkedIn 
 
 
 

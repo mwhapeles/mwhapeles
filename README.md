@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # morgs
-<blockquote>quote.quote. </blockquote>
+> "Changes happen as time passes by. Soon enough, you'll be grown." -kermit the frog 
 
 
 

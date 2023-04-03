@@ -16,13 +16,22 @@ Here are some ideas to get you started:
 -->
 
 # morgs
+
+![girl saying hello and flipping hair](https://media.giphy.com/media/SWoXEoE1lA0uSQcF1h/giphy.gif)
+
 > "Changes happen as time passes by. Soon enough, you'll be grown." -kermit the frog 
 
 ## major
 Eastern Washington University VCD Major 
 
 ## i'm pretty good at... 
-* 
+* creative thinking 
+* project management 
+
+## i'm currently learning...
+* html, css, js
+* ux design certificate 
+* being the best me! 
 
 
 

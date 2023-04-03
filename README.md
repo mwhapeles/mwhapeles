@@ -15,4 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# morgs
+<blockquote>quote.quote. </blockquote>
+
+
+
+## Major
+Eastern Washington University VCD Major 
+
+## Skills 
+
+
+
+
+
+
 <!--Font License -->

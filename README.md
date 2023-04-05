@@ -28,14 +28,14 @@ Eastern Washington University VCD Major
 * creative thinking 
 * project management 
 
-## i'm currently learning...
+## :star: i'm currently learning...
 * html, css, js
 * ux design certificate 
 * being the best me! 
 
 
 
-## find me here! 
+## :loveletter: find me here! 
 * [GitHub](https://github.com/mwhapeles) 
 * [CodePen](https://codepen.io/mwhapeles) 
 * [LinkedIn](https://www.linkedin.com/in/morgan-whapeles-aa7b1b234/)

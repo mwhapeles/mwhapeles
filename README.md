@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## major
 Eastern Washington University VCD Major 
 
-## i'm pretty good at... 
+## :blush: i'm pretty good at... 
 * creative thinking 
 * project management 
 

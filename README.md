@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![raccoon riding scooter](https://media.giphy.com/media/40F4fLvOkInEk/giphy-downsized-large.gif)
 
-> "Changes happen as time passes by. Soon enough, you'll be grown." -kermit the frog 
+> "Changes happen as time passes by. Soon enough, you'll be grown." -kermit the frog :frog:
 
 ## major
 Eastern Washington University VCD Major 

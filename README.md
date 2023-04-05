@@ -35,7 +35,7 @@ Eastern Washington University VCD Major
 
 
 
-## :loveletter: find me here! 
+## :love_letter: find me here! 
 * [GitHub](https://github.com/mwhapeles) 
 * [CodePen](https://codepen.io/mwhapeles) 
 * [LinkedIn](https://www.linkedin.com/in/morgan-whapeles-aa7b1b234/)

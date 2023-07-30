@@ -34,7 +34,8 @@ Eastern Washington University VCD Major
 
 ## :star: i'm currently learning...
 * html, css, js
-* ux design certificate 
+* ux design certificate
+* 3d modeling!!
 * being the best me! 
 
 ## :love_letter: find me here! 

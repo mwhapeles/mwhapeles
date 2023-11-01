@@ -25,18 +25,19 @@ Here are some ideas to get you started:
 
 I am a student at Eastern Washington University with a goal of making video games and websites that are accessible to everyone! 
 
-## major
-Eastern Washington University VCD Major 
+## studying
+Eastern Washington University VCD Major on track to get a Web Applications Minor. I am currently certified in Front-End Web design and am getting my certification in UX design. 
 
 ## :blush: i'm pretty good at... 
 * creative thinking 
-* project management 
+* project management
+* team management 
 
 ## :star: i'm currently learning...
 * html, css, js
 * ux design certificate
 * 3d modeling!!
-* being the best me! 
+* java
 
 ## :love_letter: find me here! 
 * [GitHub](https://github.com/mwhapeles) 
